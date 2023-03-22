@@ -13,6 +13,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiizmiranda&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
+<img align="right" alt="" height="140" style="border-radius:50px;" src="https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif">
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"target="_blank">
   <img align="center" alt="HTML5" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"target="_blank" >
