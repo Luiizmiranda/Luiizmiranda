@@ -1,4 +1,6 @@
-### Olá, eu sou o Luiz Miranda ✋
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:27b7de,:fbc7d4&height=210&section=header&text=Luiz%20Miranda&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+
 <div>
   <a href="https://www.linkedin.com/in/luiiz-miranda" 12target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/+5592992308422?text=Ol%C3%A1,%20tudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -8,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/Luiizmiranda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiizmiranda&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiizmiranda&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiizmiranda&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiizmiranda&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
  <div style="display: inline_block"><br>
