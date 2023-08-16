@@ -6,15 +6,11 @@
 </div>
 
 ##
-
 <div align="center">
   <a href="https://github.com/Luiizmiranda">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiizmiranda&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiizmiranda&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
-
-<img align="right" alt="" height="140" style="border-radius:50px;" src="https://tenor.com/pt-BR/view/sasuke-uchiha-gif-24098960">
+  </div>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"target="_blank" >
@@ -27,8 +23,5 @@
    <img align="center" alt="CSS3" height="30" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"target="blank">
 </div>
 
-
 ##
-
  ![Snake eif](https://github.com/Luiizmiranda/Luiizmiranda/blob/output/github-contribution-grid-snake.svg)
-
