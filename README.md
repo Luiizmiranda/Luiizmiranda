@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:27b7de,:fbc7d4&height=210&section=header&text=Luiz%20Miranda&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:27b7de,:fbc7d4&height=210&section=header&text=Luiz%20Miranda&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=%20%20&descAlignY=50">
 
 <div>
   <a href="https://www.linkedin.com/in/luiiz-miranda" 12target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
